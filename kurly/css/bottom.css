@@ -1,0 +1,358 @@
+.box {
+     margin:80px 50px 80px 50px;
+}
+
+.css-bjn8wh {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: #333;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        position: relative;
+}
+.css-16hymll {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: #333;
+        padding: 0;
+        box-sizing: border-box;
+        position: relative;
+        width: 1050px;
+        margin: 0px auto;
+        z-index: 9999;
+}
+.css-lj9hak {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: #333;
+        padding: 0;
+        box-sizing: border-box;
+        position: relative;
+        max-width: 1900px;
+        height: 370px;
+        margin: 0px auto 40px;
+}
+
+
+
+.css-sf7gh {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        list-style: none;
+        color: inherit;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        position: relative;
+        width: 100%;
+        min-width: 1050px;
+        padding-bottom: 370px;
+}
+.css-151twnq {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: #333;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        margin-bottom: 27px;
+        display: flex;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        align-items: center;
+}
+.css-70ngop {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        box-sizing: border-box;
+        margin: 0;
+        background-color: transparent;
+        text-decoration: none;
+        color: inherit;
+        position: relative;
+        display: flex;
+        min-height: 48px;
+        padding: 8px 0px 8px 8px;
+        cursor: pointer;
+}
+.css-r6zrzr {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        color: rgb(51, 51, 51);
+        font-size: 28px;
+        line-height: 1.15;
+        letter-spacing: -0.26px;
+        font-weight: 500;
+}
+.css-1m2dcd9 {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: inherit;
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        position: absolute;
+        left: 100%;
+        top: 9px;
+        width: 32px;
+        height: 32px;
+        display: flex;
+}
+.css-19lkxd2 {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        list-style: none;
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        color: rgb(250, 98, 47);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.5;
+        white-space: nowrap;
+        margin-right: 7px;
+}
+
+.css-price-number {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        list-style: none;
+        cursor: pointer;
+        color: rgb(51, 51, 51);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.5;
+        white-space: nowrap;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+}
+.css-13xu5fn {
+        -webkit-text-size-adjust: 100%;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        list-style: none;
+        padding: 0;
+        box-sizing: border-box;
+        font: inherit;
+        margin: 0;
+        -webkit-tap-highlight-color: transparent;
+        overflow: visible;
+        background-color: transparent;
+        text-transform: none;
+        -webkit-appearance: button;
+        cursor: pointer;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        color: rgb(51, 51, 51);
+        display: flex;
+        -webkit-box-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        align-items: center;
+        width: 100%;
+        height: 36px;
+        margin-top: 6px;
+        padding-bottom: 1px;
+        font-size: 16px;
+        line-height: 29px;
+        border: 1px solid rgb(221, 221, 221);
+        border-radius: 4px;
+}
+.css-70ngop {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        box-sizing: border-box;
+        margin: 0;
+        background-color: transparent;
+        text-decoration: none;
+        color: inherit;
+        position: relative;
+        display: flex;
+        min-height: 48px;
+        padding: 8px 0px 8px 8px;
+        cursor: pointer;
+}
+.css-149yh9z {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 1.45;
+        letter-spacing: -0.2px;
+        text-align: center;
+        color: rgb(153, 153, 153);
+        margin-top: 2px;
+}
+.css-1ud9i0q {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        list-style: none;
+        color: rgb(51, 51, 51);
+        cursor: pointer;
+        box-sizing: border-box;
+        margin: 0;
+        position: relative;
+        padding: 8px 10px 0px 0px;
+}
+.css-1066lcq {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        list-style: none;
+        color: rgb(51, 51, 51);
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        display: flex;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        align-items: center;
+}
+.css-1fttcpj {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        list-style: none;
+        color: rgb(51, 51, 51);
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+}
+.css-18tpqqq1 {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        list-style: none;
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        white-space: nowrap;
+        display: block;
+        padding-top: 2px;
+        color: rgb(181, 181, 181);
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        text-decoration: line-through;
+}
+.css-18tpqqq2 {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        list-style: none;
+        cursor: pointer;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        color: rgb(51, 51, 51);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.5;
+        white-space: nowrap;
+}
+.css-17spb0j {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: -0.3px;
+        color: inherit;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        height: 29px;
+        padding-top: 5px;
+        text-align: center;
+        border-bottom: 1px solid rgb(221, 221, 221);
+        cursor: pointer;
+}

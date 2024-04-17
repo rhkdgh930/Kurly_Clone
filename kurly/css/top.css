@@ -1,0 +1,96 @@
+.css-16h7nba {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: #333;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        text-align: center;
+        transition: margin 0.4s linear 0s;
+        background-color: rgb(95, 0, 128);
+}
+.css-pqw0uk {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        font-size: 14px;
+        color: #333;
+        text-align: center;
+        padding: 0;
+        box-sizing: border-box;
+        position: relative;
+        width: 1050px;
+        margin: 0px auto;
+}
+.css-129c9b5 {
+        -webkit-text-size-adjust: 100%;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        text-align: center;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        background-color: transparent;
+        text-decoration: none;
+        display: block;
+        font-size: 14px;
+        line-height: 42px;
+        color: rgb(255, 255, 255);
+        height: 42px;
+}
+.css-10w9uhr {
+        -webkit-text-size-adjust: 100%;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        padding: 0;
+        box-sizing: border-box;
+        font: inherit;
+        margin: 0;
+        -webkit-tap-highlight-color: transparent;
+        overflow: visible;
+        background-color: transparent;
+        border: none;
+        text-transform: none;
+        -webkit-appearance: button;
+        cursor: pointer;
+        font-size: 14px;
+        color: #333;
+        border-radius: 0;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        width: 42px;
+        height: 42px;
+}
+.css-7qb0sc {
+        -webkit-text-size-adjust: 100%;
+        --swiper-theme-color: #007aff;
+        user-select: none;
+        font: inherit;
+        -webkit-tap-highlight-color: transparent;
+        text-transform: none;
+        cursor: pointer;
+        font-size: 14px;
+        color: #333;
+        font-family: "Noto Sans KR", "malgun gothic", AppleGothic, dotum, sans-serif;
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        overflow: hidden;
+        position: absolute;
+        left: -9999px;
+        width: 1px;
+        height: 1px;
+}
+
